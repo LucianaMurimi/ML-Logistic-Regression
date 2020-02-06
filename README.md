@@ -1,4 +1,4 @@
-# ML-LOogistic Regression
+# ML-Logistic Regression
 Logistic regression is illustrated using PIMA Indian diabetes data set. Based on the data, either a diabetic or non-diabetic outcome can be predicted. 
 
 ### Objectives: 
